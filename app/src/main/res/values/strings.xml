@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">authentification-firebase</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="test">test</string>
+    <string name="registre">registre</string>
+    <string name="Registre">Registre</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="cr_er_un_compte">Créer un compte</string>
+    <string name="cr_er_votre_compte">Créer votre compte</string>
+    <string name="votre_score_est">Votre Score est :</string>
+    <string name="d_connecter">Déconnecter</string>
+</resources>

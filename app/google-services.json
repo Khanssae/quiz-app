@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98076013493",
+    "project_id": "authentification-firebas-ccd16",
+    "storage_bucket": "authentification-firebas-ccd16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98076013493:android:ad4de0b55b7fd03722dffc",
+        "android_client_info": {
+          "package_name": "ma.ensa.authentification_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexr8kadHO-lsjRyzuxIeX74Jq8SJiR14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
